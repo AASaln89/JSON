@@ -1,0 +1,27 @@
+[
+  {
+    "NumGood": 1,
+    "NameGood": "a",
+    "PriceGood": 2
+  },
+  {
+    "NumGood": 2,
+    "NameGood": "s",
+    "PriceGood": 3
+  },
+  {
+    "NumGood": 3,
+    "NameGood": "d",
+    "PriceGood": 5
+  },
+  {
+    "NumGood": 4,
+    "NameGood": "f",
+    "PriceGood": 7
+  },
+  {
+    "NumGood": 5,
+    "NameGood": "h",
+    "PriceGood": 10
+  }
+]
